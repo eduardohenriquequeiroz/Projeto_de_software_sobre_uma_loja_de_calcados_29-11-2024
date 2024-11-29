@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cabecalho {
+    width: 100%;
+    height: 15dvh;
+    background-color: #0D99FF;
+}
+
+body{
+    background-color: #F1EAE3;
+}
+
+.logo {
+    margin: 5px;
+    margin-left: 20px;
+}
+
+.voltar{
+    margin-left: 1120px;
+}
+
+.voltar:hover{
+    transform: scale(1.1);
+}
+
+
+.teste{
+  display: flex;
+  justify-content: center;
+  width: 200px;
+}
+
+.preco{
+    margin-top: 20px;
+}
